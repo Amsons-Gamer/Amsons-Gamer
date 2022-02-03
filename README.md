@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Amsons-Gamer
 - 👀 I’m interested in Programming/Coding
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning HTML CSS and JavaScript
+- 💞️ I’m looking to collaborate on My Project
 - 📫 How to reach me ...
 
 <!---
